@@ -1,0 +1,7 @@
+# Site settings
+title: James Royal
+description: Place to get info on James Royal
+favicon: /assets/img/avatar.JPG
+baseurl:
+url: http://jamesroyal.info
+rss_url: /pages/atom.xml

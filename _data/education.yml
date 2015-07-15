@@ -1,0 +1,7 @@
+educationHistory:
+    - education1:
+      organization: University of Texas at Austin
+      degree: Bachelor of Science
+      major: Computer Science
+      started: 2009
+      duration: (2009 - 2013)
