@@ -1,0 +1,10 @@
+personalProjects:
+    - project:
+      name: SlackPoll
+      primary-technologies: Python, Flask, MongoDB, Docker
+      description: This project adds a basic polling integration to slack channels. I use this project as a base when I want to get some experience with a new technology. I tend to rewrite it to use whatever it is that I am trying to learn at the time. Recently, I used it as an opportunity for me to spend some time learning about docker. The most recent version of the polling application is built using python’s flask framework with a MongoDB backend to support it. All of which are running inside of docker containers.
+
+    - project:
+      name: IDS-Slackbot
+      primary-technologies: Python, Flask, CloudFoundry
+      description: A python flask application that serves as a go-between of the IDS(IBM Bluemix Devops Services) Track and Plan dashboards and slack. This project helped fix a minor annoyance some of the devs had at work where we wanted to be able to get out current work items or defects while still in Slack.

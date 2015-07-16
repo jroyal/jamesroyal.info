@@ -6,10 +6,7 @@ workHistory:
       started: 2013
       duration: (2013 - Present)
       description:
-        - Develop monitoring plugins to monitor backend server infrastructure
-        - Develop new features and extensions for OpenStack
-        - Create scripts to automate deployment tasks and speed up development time
-        - Co-leader of the morale committee for our department. Create and set up fun events for employees
+        - I currently work in IBM's Cloud division as a Software Engineer, and at the moment, am generally responsible for developing and deploying the monitoring infrastructure for the underlying hardware in IBM’s Container Cloud. Before that I helped to develop new features for IBM’s cloud products that extended differnet parts of core OpenStack projects. I also help lead the "Cloud 9" group in our team that is responsible for planning and running fun events that our coworkers can attend.
     - work:
       company: Valero Energy Corp
       location: San Antonio, Texas
@@ -17,8 +14,8 @@ workHistory:
       started: 2012
       duration: (May 2012 - August 2012)
       description:
-        - Converted existing web based UI to a mobile application for a current systems dashboard
-        - Optimized various functions for a mobile interface
+        - Converted an existing web based UI to a mobile application for a current systems dashboard using Apache Cordova.
+        - Optimized various functions for a mobile interface.
     - work:
       company: Allstate Insurance
       location: Houston, Texas
@@ -26,6 +23,6 @@ workHistory:
       started: 2011
       duration: (May 2011 - August 2011)
       description:
-        - Created, presented, and rolled out a new method of storing documents to an online server
-        - Created custom Excel functions and macros to increase the speed and efficiency of various office tasks
-        - Repaired and streamlined workbooks for the office management so data they had was up-to-date, accurate, and easy to read and use
+        - Created, presented, and rolled out a new method of storing documents to an online server.
+        - Created custom Excel functions and macros to increase the speed and efficiency of various office tasks.
+        - Repaired and streamlined workbooks for the office management so data they had was up-to-date, accurate, and easy to read and use.

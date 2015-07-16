@@ -1,0 +1,13 @@
+languages:
+  - language:
+    name: Python
+    proficiency: Expert
+  - language:
+    name: Java
+    proficiency: Proficient
+  - language:
+    name: Ruby
+    proficiency: Proficient
+  - language:
+    name: Javascript
+    proficiency: Familiar
