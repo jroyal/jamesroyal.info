@@ -1,4 +1,4 @@
-# jamesroyal.info
+# [jamesroyal.info](jamesroyal.info)
 
 The source for jamesroyal.info
 
