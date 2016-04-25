@@ -6,7 +6,10 @@ workHistory:
       started: 2013
       duration: (2013 - Present)
       description:
-        - I currently work in IBM's Cloud division as a Software Engineer, and at the moment, am generally responsible for developing and deploying the monitoring infrastructure for the underlying hardware in IBM’s Container Cloud. Before that I helped to develop new features for IBM’s cloud products that extended differnet parts of core OpenStack projects. I also help lead the "Cloud 9" group in our team that is responsible for planning and running fun events that our coworkers can attend.
+        - I currently work in IBM's Cloud division as a Software Engineer developing the Auto Scaling platform.
+        - Develop and maintain a critical core internal library for quickly spinning up new microservices in python.
+        - Developed and deployed the monitoring infrastructure for the underlying hardware in IBM’s Container Cloud.
+        - Developed new features for IBM’s cloud products that extended different parts of core OpenStack projects.
     - work:
       company: Valero Energy Corp
       location: San Antonio, Texas
